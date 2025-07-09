@@ -25,7 +25,7 @@ export default function AboutSection() {
                 <span className="block text-amber-600">Made with Love</span>
               </h2>
               <p className="text-lg text-gray-600 leading-relaxed">
-                Hi, I'm Luna, and I've been creating handmade jewelry for over 8 years. What started as a hobby in my
+                Hi, I'm HareRam, and I've been creating handmade jewelry for over 8 years. What started as a hobby in my
                 small studio has grown into a passion for creating unique, meaningful pieces that tell stories.
               </p>
               <p className="text-gray-600 leading-relaxed">
