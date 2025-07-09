@@ -98,7 +98,7 @@ This project is open-source. See the [LICENSE](LICENSE) file for details.
 - 💻 Developer passionate about building practical, user-centric web applications.
 - 🌐 GitHub: [HareRamDwivedi](https://github.com/HareRamDwivedi)
 - 📧 Email: [hareramdwivedi03@gmail.com](mailto:hareramdwivedi03@gmail.com)
-- 📱 LinkedIn: [linkedin.com/in/hareramdwi](https://www.linkedin.com/in/hareramdwi)
+- 📱 LinkedIn: [linkedin.com/in/hareramdwi](https://www.linkedin.com/in/hareramdwivedi)
 - 📍 Location: India
 
 ---
@@ -109,7 +109,7 @@ For issues, suggestions, or inquiries:
 
 - **Email:** [hareramdwivedi03@gmail.com](mailto:hareramdwivedi03@gmail.com)
 - **GitHub Issues:** [Open an Issue](https://github.com/HareRamDwivedi/ecomerce/issues)
-- **LinkedIn:** [Contact on LinkedIn](https://www.linkedin.com/in/hareramdwi)
+- **LinkedIn:** [Contact on LinkedIn](https://www.linkedin.com/in/hareramdwivedi)
 
 ---
 
