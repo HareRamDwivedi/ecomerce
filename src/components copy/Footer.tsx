@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="space-y-4">
             <Link to="/" className="flex items-center space-x-2">
               <Heart className="h-8 w-8 text-amber-400" />
-              <span className="text-2xl font-serif">Luna Artisan</span>
+              <span className="text-2xl font-serif">Khara Sona</span>
             </Link>
             <p className="text-gray-400">
               Handcrafted jewelry made with love and attention to detail. Each piece tells a unique story.
@@ -33,13 +33,13 @@ export default function Footer() {
               <Link to="/contact" className="block text-gray-400 hover:text-white transition-colors">
                 Contact
               </Link>
-            </div>
-          </div>
+            </>
+          </>
 
           {/* Categories */}
-          <div className="space-y-4">
+          < className="space-y-4">
             <h3 className="text-lg font-semibold">Categories</h3>
-            <div className="space-y-2">
+            < className="space-y-2">
               <Link to="/products?category=rings" className="block text-gray-400 hover:text-white transition-colors">
                 Rings
               </Link>
@@ -61,7 +61,7 @@ export default function Footer() {
               >
                 Bracelets
               </Link>
-            </div>
+            </>
           </div>
 
           {/* Contact & Social */}
