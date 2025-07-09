@@ -50,7 +50,7 @@ export default function ProductDetailPage() {
             {/* Thumbnail Images */}
             {product.images.length > 1 && (
               <div className="flex space-x-4">
-                {product.images.map((image, index) => (
+                {product.images.map((images, index) => (
                   <button
                     key={index}
                     onClick={() => setSelectedImage(index)}
@@ -59,7 +59,7 @@ export default function ProductDetailPage() {
                     }`}
                   >
                     <img
-                      src={image || "/placeholder.svg"}
+                      src={images || "/placeholder.svg"}
                       alt={`${product.name} ${index + 1}`}
                       className="w-full h-full object-cover"
                     />
@@ -116,9 +116,9 @@ export default function ProductDetailPage() {
             <div className="space-y-4">
               <h3 className="text-lg font-semibold text-gray-800">Materials</h3>
               <div className="flex flex-wrap gap-2">
-                {product.materials.map((material, index) => (
+                {product.materials.map((materials, index) => (
                   <span key={index} className="bg-amber-50 text-amber-700 px-3 py-1 rounded-full text-sm">
-                    {material}
+                    {materials}
                   </span>
                 ))}
               </div>
