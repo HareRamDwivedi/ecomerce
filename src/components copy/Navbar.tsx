@@ -23,7 +23,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <Heart className="h-8 w-8 text-amber-600" />
-            <span className="text-2xl font-serif text-gray-800">Luna Artisan</span>
+            <span className="text-2xl font-serif text-gray-800">Khara Sona</span>
           </Link>
 
           {/* Desktop Navigation */}
